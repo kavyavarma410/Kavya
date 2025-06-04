@@ -1,5 +1,5 @@
 class RecursionDemo2{
-static int sumNatutralNumbers(int n){
+static int sumNaturalNumbers(int n){
 if(n==1){
 return 1;
 }else{
